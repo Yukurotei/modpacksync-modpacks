@@ -4,10 +4,10 @@
     {
       "id": "al3xa",
       "name": "Al3xa",
-      "description": "Funny modpack",
-      "latest_tag": "al3xa-v7",
-      "latest_version": 7,
-      "updated_at": "1783822298",
+      "description": "Added Carpet (Fake player for AFK farm)",
+      "latest_tag": "al3xa-v8",
+      "latest_version": 8,
+      "updated_at": "1784007376",
       "manifest_asset": "manifest.json",
       "mods_asset": "mods.zip"
     }
