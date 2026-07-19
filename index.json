@@ -4,10 +4,10 @@
     {
       "id": "al3xa",
       "name": "Al3xa",
-      "description": "Added Carpet (Fake player for AFK farm)",
-      "latest_tag": "al3xa-v8",
-      "latest_version": 8,
-      "updated_at": "1784007376",
+      "description": "Added KubeJS (Custom Recipes)",
+      "latest_tag": "al3xa-v9",
+      "latest_version": 9,
+      "updated_at": "1784428971",
       "manifest_asset": "manifest.json",
       "mods_asset": "mods.zip"
     }
