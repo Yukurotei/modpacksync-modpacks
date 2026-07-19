@@ -4,10 +4,10 @@
     {
       "id": "al3xa",
       "name": "Al3xa",
-      "description": "Added KubeJS (Custom Recipes)",
-      "latest_tag": "al3xa-v9",
-      "latest_version": 9,
-      "updated_at": "1784428971",
+      "description": "Removed kubejs cuz causing performance problems",
+      "latest_tag": "al3xa-v10",
+      "latest_version": 10,
+      "updated_at": "1784494712",
       "manifest_asset": "manifest.json",
       "mods_asset": "mods.zip"
     }
