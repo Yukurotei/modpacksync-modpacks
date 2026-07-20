@@ -4,10 +4,10 @@
     {
       "id": "al3xa",
       "name": "Al3xa",
-      "description": "Removed kubejs cuz causing performance problems",
-      "latest_tag": "al3xa-v10",
-      "latest_version": 10,
-      "updated_at": "1784494712",
+      "description": "Added chunkloaders",
+      "latest_tag": "al3xa-v11",
+      "latest_version": 11,
+      "updated_at": "1784514384",
       "manifest_asset": "manifest.json",
       "mods_asset": "mods.zip"
     }
